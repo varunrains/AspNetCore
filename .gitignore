@@ -1,2 +1,6 @@
-wwwroot
+**/lib
 .suo
+bin
+debug
+obj
+.dtbcache.v2
